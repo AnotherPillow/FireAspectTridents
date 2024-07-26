@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "com.anotherpillow.fireaspecttridents.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "FireAspectTridents.refmap.json",
+  "refmap": "fireaspecttridents.refmap.json",
   "mixins": [
     "FireAspectEnchantmentMixin",
     "ThrownTridentMixin"
